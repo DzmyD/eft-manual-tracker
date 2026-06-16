@@ -1,2 +1,5 @@
 # eft-manual-tracker
-The desktop app for easy tracking count of items, completing quests and building a hideout in Escape from Tarkov
+
+Десктопное приложение для удобного отслеживания количества предметов, выполненных квестов и постройки убежища в Escape from Tarkov.
+
+Примерная модель БД [здесь](../blob/main/draft/database_eft.xlsx).
